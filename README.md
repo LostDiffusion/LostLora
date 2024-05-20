@@ -4,7 +4,7 @@ Collection of LoRA that may potentially be lost. Note I am especially partial to
 ## Searching
 
 Contrary to popular belief (of non-Github users), HuggingFace does have a search feature that is definitely useful:
-<img src="llassets/hfsearch.jpg" />
+<img src="llassets/hfsearch.png" />
 
 Github in general, including this repo, is also easy to search using the Search tool at the top of the screen:
 <img src="llassets/searchhelp.png">
